@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 👨‍💻 All of my projects are available at [https://sambitkumar.netlify.app/](https://sambitkumar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kumarsambit.netlify.app/](https://sambitkumar.netlify.app/)
 
 - 💬 Ask me about **DSA,JAVASCRIPT,REACT and mongo DB**
 
